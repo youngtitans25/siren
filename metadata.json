@@ -1,0 +1,8 @@
+
+{
+  "name": "Siren: AI Companion",
+  "description": "An intimate, adults-only AI companion designed for seductive and immersive voice-first interactions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
